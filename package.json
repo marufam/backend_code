@@ -1,0 +1,31 @@
+{
+  "name": "backed_code",
+  "version": "1.0.0",
+  "description": "code compiler for online judge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marufam/backend_code.git"
+  },
+  "keywords": [
+    "code",
+    "compiler"
+  ],
+  "author": "Moch Maruf Amien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marufam/backend_code/issues"
+  },
+  "homepage": "https://github.com/marufam/backend_code#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.11"
+  }
+}
